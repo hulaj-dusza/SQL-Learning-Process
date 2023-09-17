@@ -1,2 +1,2 @@
 # SQL-Learning-Process
-# Collection of basic tasks.
+# Collection of solutions for tasks from sp.sqlzoo.net
